@@ -1,0 +1,69 @@
+
+#navigation {background:#8af;}
+.navbar,.navbar.navbar-expand-lg.navbar-light{padding-bottom:0 !important;}
+.bg-light {
+    background-color: #fafaffb3 !important;
+}
+.navbar li.nav-item{margin:0 0.5em;}
+.navbar li.active {
+    background: #fff;
+    border-radius: 8px 8px 0 0;
+}
+.navbar li.nav-item a {
+    color: #158;
+}
+.navbar li.nav-item a:hover {
+    color: #000;
+}
+
+main.row article, main.row aside{padding-top:0.5em;}
+
+main.row aside .block{margin-bottom: 2rem;}
+aside form, aside input, aside textarea{width:100%;}
+.ihatespam {display:none;}
+
+#content header:after {
+    display: block;
+    width: 100%;
+    height: 20px;
+    clear: both;
+    content: " ";
+    border-top: 10px solid #ddf;
+    border-bottom: 4px solid #abc;
+    margin: 0 0 1em 0;
+}
+
+td,th {
+    padding: 4px 11px;
+    border: 1px solid #ccc;
+
+}
+th {
+    background: #f8f8f8;
+}
+h3 {
+    margin-top: 1em;
+    border-bottom: 1px solid #aaa;
+}
+label {
+	font-weight: bold;
+}
+
+img.pronet {
+    height: 20px;
+    margin: -4px 4px 0 0;
+}
+/* For print */
+@media print {
+
+}
+
+/* Form small devic(Mobile phone) */
+@media only screen and (max-width: 479px){
+
+}
+
+/* For larger than Mobile device */
+@media only screen and (min-width: 480px){
+
+}
