@@ -20,7 +20,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Resume of Sanskruti Patil',
+        'name' => 'Resume and CV of Sanskruti Patil',
         'nav_menu' => [
             'home' => ['Home', 'col1'],//'Home' is for Menu name & 'col1' is for number of columns of page
             'about-me' => ['About me', 'col2'],
@@ -29,7 +29,7 @@ function config($key = '')
         ],
         'template_path' => 'template',
         'content_path' => 'content',
-        'pretty_uri' => true,
+        'pretty_uri' => false,
         'version' => 'v2.0',
     ];
 
