@@ -2,8 +2,8 @@
 
 Web portal to create, edit my resume, cv and portfolio for my career.
 
-# Language
+# Languages
 
- PHP
- HTML 5
- CSS 3
+- PHP
+- HTML 5
+- CSS 3
