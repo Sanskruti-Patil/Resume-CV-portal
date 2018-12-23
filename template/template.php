@@ -1,8 +1,8 @@
 <!--
    new.html
    
-   Author Name: Shivcharan Anandro Patil 
-   Author Email: shiv@itapplication.net
+   Author Name: Sanskruti Shivcharan Patil 
+   Author Email: san@itapplication.net
    Author Website: http://itapplication.net   
    
 -->
@@ -19,20 +19,21 @@
 	<link rel="stylesheet" href="template/style.css">
     <title><?php pageTitle(); ?> | <?php siteName(); ?></title>
   </head>
-  <body>	  
+  <body>	<!--  
     <header id="site-header" class="sitelayout">		
 		 <div class="container">
 		  <div class="row">
 			<div class="col-12">
 			 <div class="logo"><a href="index.php?=content/home.php" /><img src="" /></a></div><h1 class="site-name"><a href="index.php?=content/home.php" /><?php siteName(); ?></a></h1>
 			</div>
-		  </div><!-- /.row -->
-		 </div><!-- /.container -->
+		  </div>
+		 </div> -->
     </header>
     <section id="navigation" class="nav bar">
 	 <div class="container">
 	  <div class="row">
-	   <nav class="navbar navbar-expand-lg navbar-light bg-light col-12">		
+	   <nav class="navbar navbar-expand-lg navbar-light bg-light col-12">
+		<a class="navbar-brand" href="index.php?=content/home.php"><?php siteName(); ?></a>	
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 		</button>

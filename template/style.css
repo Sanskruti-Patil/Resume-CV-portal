@@ -53,6 +53,46 @@ img.pronet {
     height: 20px;
     margin: -4px 4px 0 0;
 }
+
+.hpbiopic {
+	float: left;
+	margin-right: 5%;
+	border: 11px solid #eee;
+	border-radius: 50%;
+	max-width: 40%;
+}
+
+ul.biofield {
+	padding-left: 0.2em;
+	margin-left: 0.5em;
+}
+.biofield li {
+    list-style: none;
+    font-weight: 600;
+    font-style: italic;
+    color: #777;
+    text-indent: 0.5em;
+}
+label {
+    margin-bottom: 0 !important;
+    color: #000;
+}
+label:after {
+    content: ":";
+    margin-right: 5px;
+}
+.footnote {
+	font-size: 0.55em;	
+}
+.footnote:before {
+	border-top: 1px solid #000;
+	display: block;
+	clear: right;
+	margin-left: 50%;
+	width: 40%;
+	content: " "
+}
+
 /* For print */
 @media print {
 

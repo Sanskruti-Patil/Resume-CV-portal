@@ -32,7 +32,20 @@
 		<td>S. S. C.</td> <td>Maratha High school, Nashik</td> <td>Maharashtra State Board</td> <td>2014</td> <td>90.60%</td>
 	</tr>
  </table>
- 
+ <h3>Achievements</h3>
+ <ul>
+	<li>1<sup>st</sup> runner up : Big C Waffle(Coding competition in C) </li>
+	<!-- <li></li>
+	<li></li>
+	<li></li> -->
+ </ul>
+ <h3>Seminars/Trainings/Workshops</h3>
+ <ul>
+	<li>Android development introduction workshop</li>
+	<li>Laptop junkyard Workshop</li>
+	<li>National Security Database (NSD)</li>
+	<li>Redhat Summit</li>
+ </ul>
  <h3>FIELD OF INTEREST</h3>
  <ul>
     <li>Reading books.</li>

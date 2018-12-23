@@ -1,3 +1,10 @@
-<h2 class="page-title">Welcome</h2>
-<p>This is <b>home</b> page.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-</p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+<img src="res/images/hpbiopic.png" class="hpbiopic" /><h2 class="page-title">Sanskruti Shivcharan Patil</h2>
+<ul class="biofield">
+	<li>Software Engineering (<a href="https://en.wikipedia.org/wiki/Information_technology#cite_note-curricula-40">Information Technology</a>) student</li>
+	<li><label>Education</label> B.Tech. (Bachelor of Technology)</li>
+	<li><label>Home City</label> <a href="https://maps.google.com/?q=20.008446,73.755402&ll=20.008446,73.755402&z=7" target="_blank">Nashik (Grape City)</a>, Maharashtra, INDIA.</li>
+	<li><label>Languages</label> English, <a href="https://en.wikipedia.org/wiki/Hindi" target="_blank">Hindi</a>, <a href="https://en.wikipedia.org/wiki/Marathi_language" target="_blank">Marathi</a></li>
+</ul>
+<p>I am B.Tech. 3<sup>rd</sup> year student. Studying at Government College of Engineering, Karad (Maharashtra, India). I am looking for Internship in Maharashtra. Please review my RESUME, CV and short BIO.</p>
+<p class="footnote">Resume is French word for “summary”. In my resume I provide short description of my career objective, education, skill set and other job related essential points.</p>
+<p class="footnote">Curriculum Vitae (CV) is Latin word for “course of life.” in which I describe about my career goal, bio and cover almost almost all points related to my career. </p>

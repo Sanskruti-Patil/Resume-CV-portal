@@ -1,4 +1,12 @@
-
+@media only screen {
+	section#content {
+		background: -moz-linear-gradient(bottom, #008cf7 1%, #eeeeff 11%, #fff 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(bottom, #008cf7 1%, #eeeeff 11%, #fff 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(to bottom, #008cf7 1%, #eeeeff 11%, #fff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#008cf7', endColorstr='#efff',GradientType=1 ); /* IE6-9 */
+		font-size: 1.55em;
+	}
+}
 
 /* Form small devic(Mobile phone) */
 @media only screen and (max-width: 479px){

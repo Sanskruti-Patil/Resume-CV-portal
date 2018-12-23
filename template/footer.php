@@ -1,8 +1,8 @@
 	 <div class="container">
 	  <div class="row">
-		<div class="col*12 col-md-6">&copy; iTApplication.net</div>
-		<div class="col*12 col-md-6 text-right">Design and Develop by itApplication.net<br></div>
-		<div class="col text-center">Project code at <a href="https://gitlab.com/Bootstrap-4/db-less-bootstrap4-php-site" target="_blank">GitLab <svg width="24" height="24" class="tanuki-logo" viewBox="0 0 36 36">
+		<div class="col*12 col-md-6">&copy; Sanskruti Patil</div>
+		<div class="col*12 col-md-6 text-right">Design and Develop by Sanskruti Shivcharan Patil<br></div>
+		<div class="col text-center">Project code at <a href="https://github.com/Sanskruti-Patil/Resume-CV-portal" target="_blank">GitHub <svg width="24" height="24" class="tanuki-logo" viewBox="0 0 36 36">
 		<path class="tanuki-shape tanuki-left-ear" fill="#e24329" d="M2 14l9.38 9v-9l-4-12.28c-.205-.632-1.176-.632-1.38 0z"></path>
 		<path class="tanuki-shape tanuki-right-ear" fill="#e24329" d="M34 14l-9.38 9v-9l4-12.28c.205-.632 1.176-.632 1.38 0z"></path>
 		<path class="tanuki-shape tanuki-nose" fill="#e24329" d="M18,34.38 3,14 33,14 Z"></path>
