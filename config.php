@@ -24,7 +24,7 @@ function config($key = '')
         'nav_menu' => [
             'home' => ['Home', 'col1'],//'Home' is for Menu name & 'col1' is for number of columns of page
             'about-me' => ['About me', 'col2'],
-            'internship' =>['Internship', 'col1'],
+            'resume' =>['Resume', 'col1'],
             'cv' => ['CV', 'col2']
         ],
         'template_path' => 'template',
